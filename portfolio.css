@@ -157,10 +157,10 @@ height: 500px;
 }
 .tl,.br
 {
-    height: 180px;
+    height: 100px;
 }
 .bottomright
 {
     position: absolute;
-    margin-left: 94.1%;
+    margin-left: 93.1%;
 }
